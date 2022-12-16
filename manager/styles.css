@@ -1,0 +1,30 @@
+header {
+	padding: 5px;
+	background: #fff;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background: #d9d9d9;
+}
+
+.overview-container {
+	color: #fff;
+	margin: 25px;
+	padding: 10px;
+}
+
+.overview-title {
+	font-weight: bold;
+}
+
+/* Used to remove styling from links that is automatically applied */
+/* Source: https://stackoverflow.com/questions/22429881/how-to-unstyle-anchor-when-using-bootstrap */
+.link-unstyled,
+.link-unstyled:link,
+.link-unstyled:hover {
+	color: inherit;
+	text-decoration: inherit;
+}
+

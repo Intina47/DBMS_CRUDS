@@ -1,0 +1,45 @@
+h1,p{
+    text-align:center;
+  }
+  .txt{
+    text-align: center;
+  }
+   .back{
+    background-image: url("easypc.JPG");
+  }
+.txtbox{
+  border-style: solid;
+  border-width: 1px;
+  border-color: #000;
+  border-radius: 50px;
+  box-sizing: calc(100% - 20px);
+}
+  .menu {
+    width: 90%;
+    background-image: url("easypc.JPG");
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+  }
+
+.fpass{
+  border: none;
+  background-color: inherit;
+  padding: 0px;
+  font-size: 12px;
+  cursor: pointer;
+  display: inline-block;
+  text-align: right;
+}
+.fpass:hover{
+  background-color: #eee;
+}
+.card-columns {
+  @include media-breakpoint-only(lg) {
+    column-count: 4;
+  }
+  @include media-breakpoint-only(xl) {
+    column-count: 5;
+  }
+}
