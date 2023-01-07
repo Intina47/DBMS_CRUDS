@@ -3,3 +3,5 @@ Provided below are links to the various pages of the website:
 https://zeno.computing.dundee.ac.uk/2022-ac32006/isiahntina/dbms_cruds/clientview/ClientView.php
 
 https://zeno.computing.dundee.ac.uk/2022-ac32006/isiahntina/dbms_cruds/manager/manager.php
+
+https://v1.daisyui.com/components/navbar/
